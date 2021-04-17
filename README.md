@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on: applying [knowledge graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
 - 🌱 I’m currently learning: Etherium Solidity
+- 💬 Ask me about: my ferrets
+- 😄 Pronouns: He, Him, His
 <!--- 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about: my ferrets
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He, Him, His
 <!-- - ⚡ Fun fact: ... -->
 
 ---
