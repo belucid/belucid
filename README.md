@@ -41,9 +41,9 @@ Tools:
 
 - Key trends in mobile app development, [Part 1](https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-1-the-trends/), [Part 2](https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/)
 - [Paul Graham is Wrong: Or Where to Find the Best “Bad Idea”](https://medium.com/@snootymonkey/paul-graham-is-wrong-411fe084a7da)
+- [Are you Agile? No! (We're Lean)](https://hexawise.com/posts/are-you-agile-no-we-re-lean)
 
-<a href="https://www.linkedin.com/in/snootymonkey" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@snootymonkey" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://medium.com/@belucid" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/snootymonkey" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 
 ## &#x1f4c8; GitHub Stats
