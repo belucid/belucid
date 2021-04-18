@@ -17,7 +17,7 @@ I believe in craftsmanship. I believe beauty is in the details. My experience ha
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 Languages:
 
@@ -34,6 +34,11 @@ Data:
 Tools:
 
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a> <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/></a> <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services Logo" width="50" height="50"/></a> <a href="https://www.apple.com/macos" title="macOS"><img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Apple Logo" width="75" height="50"/></a> <a href="https://www.mozilla.org/en-US/firefox/new/" title="Firefox"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox Logo" width="50" height="50"/></a> <a href="https://trello.com/" title="Trello"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a>
+
+---
+## On the InterWebs
+
+<a href="https://www.linkedin.com/in/snootymonkey" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@belucid" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ---
 
