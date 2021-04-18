@@ -1,5 +1,11 @@
 ### Hello 👋, I'm Sean Johnson (a.k.a. BeLucid, a.k.a. Snooty Monkey)
 
+I'm a technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
+
+My specialty is taking ideas from back of a napkin to version 2.0. I've done this consistently throughout my career at places as diverse as IBM, VC-backed startups, consultancies and bootstrapped entrepreneurial ventures.
+
+I believe in craftsmanship. I believe beauty is in the details. My experience has taught me that great software products are marked by their internal and external simplicity. I believe in releasing quickly, then iterating in public based on a continually verified vision for the product.
+
 - 🔭 I’m currently working on: applying [knowledge graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
 - 🌱 I’m currently learning: [Etherium Solidity](https://github.com/ethereum/solidity)
 - 💬 Ask me about: my ferrets
@@ -19,7 +25,7 @@ Languages:
 
 Frameworks:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Pheonix Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>
+<a href="https://www.phoenixframework.org/" title="Phoenix"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Pheonix Logo" width="50" height="50"/></a> <a href="https://rubyonrails.org/" title="Ruby on Rails"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50"/></a> <a href="https://graphql.org/" title="GraphQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL Logo" width="50" height="50"/></a> <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/></a>
 
 Data:
 
