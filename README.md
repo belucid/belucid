@@ -29,7 +29,7 @@ Frameworks:
 
 Data:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/arangodb.svg" alt="ArangoDB Logo" width="75" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" width="50" height="50"/>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/></a> <a href="https://www.arangodb.com/" title="ArangoDB"><img src="https://cdn.worldvectorlogo.com/logos/arangodb.svg" alt="ArangoDB Logo" width="75" height="50"/></a> <a href="https://redis.io/" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" width="50" height="50"/></a> 
 
 Tools:
 
