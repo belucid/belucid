@@ -7,7 +7,7 @@ My specialty is taking ideas from back of a napkin to version 2.0. I've done thi
 I believe in craftsmanship. I believe beauty is in the details. My experience has taught me that great software products are marked by their internal and external simplicity. I believe in releasing quickly, then iterating in public based on a continually verified vision for the product.
 
 - 🔭 I’m currently working on: applying [knowledge graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
-- 🌱 I’m currently learning: [Etherium Solidity](https://github.com/ethereum/solidity)
+- 🌱 I’m currently learning: Nix
 - 💬 Ask me about: my ferrets
 - 😄 Pronouns: He, Him, His
 <!--- 👯 I’m looking to collaborate on ... -->
