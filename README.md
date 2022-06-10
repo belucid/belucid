@@ -1,4 +1,4 @@
-### Hello 👋, I'm Sean Johnson (a.k.a. BeLucid, a.k.a. Snooty Monkey)
+### Hello 👋, I'm Sean Johnson (a.k.a. BeLucid)
 
 I'm a technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
 
