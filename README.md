@@ -6,8 +6,8 @@ My specialty is taking ideas from back of a napkin to version 2.0. I've done thi
 
 I believe in craftsmanship. I believe beauty is in the details. My experience has taught me that great software products are marked by their internal and external simplicity. I believe in releasing quickly, then iterating in public based on a continually verified vision for the product.
 
-- 🔭 I’m currently working on: applying [knowledge graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
-- 🌱 I’m currently learning: Nix
+- 🔭 I’m currently working on: [wantlister](https://wantlister.com/)
+- 🌱 I’m currently learning: Phoenix
 - 💬 Ask me about: my ferrets
 - 😄 Pronouns: He, Him, His
 <!--- 👯 I’m looking to collaborate on ... -->
@@ -21,7 +21,7 @@ I believe in craftsmanship. I believe beauty is in the details. My experience ha
 
 Languages:
 
-<a href="https://clojure.org/" title="Clojrue"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" alt="Clojure Logo" width="50" height="50"/></a> <a href="https://clojurescript.org/" title="ClojureScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojurescript/clojurescript-original.svg" alt="ClojureScript Logo" width="50" height="50"/></a> <a href="https://elixir-lang.org/" title="Elixir"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir Logo" width="50" height="50"/></a> <a href="https://golang.org/" title="Go Lang"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go Lang Logo" width="50" height="50"/></a> <a href="https://developer.apple.com/swift/" title="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50"/></a> <a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="50" height="50"/></a>
+<a href="https://clojure.org/" title="Clojure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" alt="Clojure Logo" width="50" height="50"/></a> <a href="https://clojurescript.org/" title="ClojureScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojurescript/clojurescript-original.svg" alt="ClojureScript Logo" width="50" height="50"/></a> <a href="https://elixir-lang.org/" title="Elixir"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir Logo" width="50" height="50"/></a> <a href="https://golang.org/" title="Go Lang"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go Lang Logo" width="50" height="50"/></a> <a href="https://developer.apple.com/swift/" title="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50"/></a> <a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="50" height="50"/></a>
 
 Frameworks:
 
