@@ -33,7 +33,7 @@ Data:
 
 Tools:
 
-<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a> <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/></a> <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services Logo" width="50" height="50"/></a> <a href="https://www.apple.com/macos" title="macOS"><img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Apple Logo" width="75" height="50"/></a> <a href="https://www.mozilla.org/en-US/firefox/new/" title="Firefox"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox Logo" width="50" height="50"/></a> <a href="https://trello.com/" title="Trello"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a> <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/></a> <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services Logo" width="50" height="50"/></a> <a href="https://www.apple.com/macos" title="macOS"><img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Apple Logo" width="75" height="50"/></a> <a href="https://www.mozilla.org/en-US/firefox/new/" title="Firefox"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox Logo" width="50" height="50"/></a> <a href="https://trello.com/" title="Trello"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a>
 
 ---
 
@@ -43,7 +43,7 @@ Tools:
 - [Paul Graham is Wrong: Or Where to Find the Best “Bad Idea”](https://medium.com/@snootymonkey/paul-graham-is-wrong-411fe084a7da)
 - [Are you Agile? No! (We're Lean)](https://hexawise.com/posts/are-you-agile-no-we-re-lean)
 - [Stoat Labs](https://stoatlabs.com)
-- 
+ 
 <a href="https://www.linkedin.com/in/snootymonkey" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 
