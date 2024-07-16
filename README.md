@@ -1,15 +1,15 @@
 ### Hello 👋, I'm Sean Johnson (a.k.a. BeLucid)
 
-I'm a technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
+I'm a CEO, and technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
 
 My specialty is taking ideas from back of a napkin to version 2.0. I've done this consistently throughout my career at places as diverse as IBM, VC-backed startups, consultancies and bootstrapped entrepreneurial ventures.
 
 I believe in craftsmanship. I believe beauty is in the details. My experience has taught me that great software products are marked by their internal and external simplicity. I believe in releasing quickly, then iterating in public based on a continually verified vision for the product.
 
 - 🔭 I’m currently working on: [wantlister](https://wantlister.discogs.com/)
-<!-- - 🌱 I’m currently learning: Phoenix -->
 - 💬 Ask me about: my ferrets
 - 😄 Pronouns: He, Him, His
+<!-- - 🌱 I’m currently learning: Phoenix -->
 <!--- 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ... -->
@@ -42,7 +42,8 @@ Tools:
 - Key trends in mobile app development, [Part 1](https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-1-the-trends/), [Part 2](https://skylight.digital/thoughts/blog/key-trends-in-mobile-app-development-part-2-making-sense-of-the-trends/)
 - [Paul Graham is Wrong: Or Where to Find the Best “Bad Idea”](https://medium.com/@snootymonkey/paul-graham-is-wrong-411fe084a7da)
 - [Are you Agile? No! (We're Lean)](https://hexawise.com/posts/are-you-agile-no-we-re-lean)
-
+- [Stoat Labs](https://stoatlabs.com)
+- 
 <a href="https://www.linkedin.com/in/snootymonkey" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 
