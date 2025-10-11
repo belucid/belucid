@@ -6,7 +6,7 @@ My specialty is taking ideas from back of a napkin to version 2.0. I've done thi
 
 I believe in craftsmanship. I believe beauty is in the details. My experience has taught me that great software products are marked by their internal and external simplicity. I believe in releasing quickly, then iterating in public based on a continually verified vision for the product.
 
-- 🔭 I’m currently working on: [SpecStory](https://github.com/getspecstory)
+- 🔭 I’m currently working on: [SpecStory](https://github.com/specstoryai/getspecstory)
 - 💬 Ask me about: my ferrets
 - 😄 Pronouns: He, Him, His
 <!-- - 🌱 I’m currently learning: Phoenix -->
