@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Sean Johnson (a.k.a. BeLucid)
 
-I'm a CEO, and technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
+I'm a technologist with deep technical skills and business experience in start-up and entrepreneurial environments. I'm an expert in product design and software development.
 
 My specialty is taking ideas from back of a napkin to version 2.0. I've done this consistently throughout my career at places as diverse as IBM, VC-backed startups, consultancies and bootstrapped entrepreneurial ventures.
 
